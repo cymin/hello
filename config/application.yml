@@ -4,4 +4,4 @@ spring:
       enabled: always
 
 hello:
-  username: everyone
+  username: cymin
